@@ -9,3 +9,6 @@ Hey there,
 * Also will give a touch of amazon mini tv.
 * Introduce small games in the app.
 * I will be hosting it in the coming time.🚀
+
+
+[Live View](https://amazon-clone-production-4de2.up.railway.app/)
