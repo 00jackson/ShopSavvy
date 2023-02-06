@@ -1,7 +1,8 @@
 # Amazon-Clone
 Hey there,
-* Amazon Clone is designed using HTML & CSS.
-* It is the lookalike of amazon shopping.
+* Amazon Clone is a frontend based project designed using HTML & CSS.
+* It is the lookalike of amazon shopping (read the future goals for more upcoming updates).
+* All the img and product details were copied from the amazon shopping site.
 * Please wait for sometime and I will add JavaScript to it.
 
 # Future Goals
