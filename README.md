@@ -12,4 +12,4 @@ Hey there,
 * I will be hosting it in the coming time.🚀
 
 
-[Live View](https://amazon-clone-production-4de2.up.railway.app/)
+[Live View](https://amazonshopping.netlify.app/)
